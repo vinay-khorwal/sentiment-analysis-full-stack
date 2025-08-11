@@ -1,0 +1,11 @@
+Flask
+tensorflow
+nltk
+numpy
+pickle-mixin
+gunicorn  # For production deployment
+Flask-Cors
+scikit-learn
+pandas
+keras
+keras-preprocessing 

@@ -1,0 +1,21 @@
+# Python/Flask backend specific
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/feedback.csv
+
+# Node/React frontend specific
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+
+# General development files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
