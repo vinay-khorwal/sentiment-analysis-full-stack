@@ -12,7 +12,7 @@ This is a full-stack web application that performs real-time sentiment analysis 
 
 Users can enter any text, and the backend will classify its sentiment as Positive or Negative. The UI updates with corresponding colors and icons.
 
-![Screenshot of the Sentiment Analysis App](./public/screenshot.png)
+![Screenshot of the Sentiment Analysis App](./screenshot.png)
 Note: Save a screenshot of your running app as `frontend/public/screenshot.png` to display it here.
 
 ---
